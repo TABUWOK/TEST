@@ -7,4 +7,5 @@ st.write("Hello, World")
 if st.button('Balloons?'):
     st.balloons()
 
-st.button("hi!")
+if st.button("hi!"):
+    st.write("hi!")
