@@ -9,3 +9,4 @@ if st.button('Balloons?'):
 
 if st.button("hi!"):
     st.write("hi!")
+st.checkbox('Check me out')
