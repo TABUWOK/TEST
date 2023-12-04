@@ -2,7 +2,8 @@ import streamlit as st
 from backend import *
 
 st.write("# FORMULARI INSCRIPCIÓ LES CORTS FC")
-st.write("Nom:") st.text_input('Enter some text')
+st.write("Nom:") 
+st.text_input('Enter some text')
 
 
 
