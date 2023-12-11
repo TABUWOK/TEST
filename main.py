@@ -3,6 +3,7 @@ from backend import *
 
 st.write('# FORMULARI INSCRIPCIÓ LES CORTS FC')
 st.image('https://www.les-corts.com/wp-content/uploads/cache/images/2-logo-pb-collblanc-rgb-1/2-logo-pb-collblanc-rgb-1-139828099.png')
+st.text_input('Nom:')
 st.text_input('Cognoms:')
 dni=st.text_input(label='DNI', max_chars=9)
 st.slider('Edat:', min_value=5, max_value=18)
