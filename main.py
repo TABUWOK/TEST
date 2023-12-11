@@ -6,7 +6,6 @@ st.image('https://www.les-corts.com/wp-content/uploads/cache/images/2-logo-pb-co
 st.text_input('Cognoms:')
 dni=st.text_input(label='DNI', max_chars=9)
 st.slider('Edat:', min_value=5, max_value=18)
-st.select_slider('Edat:', options=['5','6','7','8','9','10','11','12','13','14','15','16','17','18'])
 st.date_input('Data')
 st.write('Lloc de naixement:')
 st.text_input('Ciutat:') 
