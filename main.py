@@ -5,7 +5,7 @@ st.markdown("<h1 style='text-align: center; color: #ab2a3e;'>COLLBLANC SANTS</h1
 
 custom_html = """
 <div class="banner">
-    <img src="https://img.freepik.com/premium-photo/wide-banner-with-many-random-square-hexagons-charcoal-dark-black-color_105589-1820.jpg" alt="Banner Image">
+    <img src="https://www.les-corts.com/wp-content/uploads/cache/images/2-logo-pb-collblanc-rgb-1/2-logo-pb-collblanc-rgb-1-139828099.png" alt="Banner Image">
 </div>
 <style>
     .banner {
