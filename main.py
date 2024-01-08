@@ -1,7 +1,7 @@
 import streamlit as st
 import Formulari
 
-st.markdown("# COLLBLANC SANTS")
+st.markdown(style=text-align: center; color: red; "# COLLBLANC SANTS")
 
 
 
