@@ -11,4 +11,7 @@ with d:
     st.markdown("<p style='text-align: center; color: black;'>Equips</p>", unsafe_allow_html=True)
 
 
-st.button('a', on_click=Formulari.form())
+if st.button("a"):
+    Formulari.form()
+    
+#st.button('a', on_click=Formulari.form())
