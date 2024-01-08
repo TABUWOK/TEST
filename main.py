@@ -5,10 +5,10 @@ st.markdown("<h1 style='text-align: center; color: #ab2a3e;'>COLLBLANC SANTS</h1
 e,d = st.columns(2)
 with e:
     st.image('Imatges/Foto_jugadors.jpg', width=325)
-    st.label("Titols")
+    st.write("Titols")
 with d:
     d.image('Imatges/Foto_jugadors.jpg', width=325)
-    d.label("Equips")
+    d.write("Equips")
 
 
 st.button('a', on_click=Formulari.form())
