@@ -1,7 +1,7 @@
 import streamlit as st
 import Formulari
 
-st.text("COLLBLANC SANTS")
+st.write("COLLBLANC SANTS")
 
 
 
