@@ -1,7 +1,7 @@
 import streamlit as st
 import Formulari
 
-st.write(style=text-align: center; color: red; "# COLLBLANC SANTS")
+st.write(style=text-align: center; "# COLLBLANC SANTS")
 
 
 
