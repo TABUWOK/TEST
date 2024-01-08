@@ -1,7 +1,7 @@
 import streamlit as st
 import Formulari
 
-st.write("# COLLBLANC SANTS")
+st.markdown("# COLLBLANC SANTS")
 
 
 
