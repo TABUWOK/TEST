@@ -21,7 +21,7 @@ st.components.v1.html(
     decoration.style.right = "45px";
 
     // Adjust image decorations
-    decoration.style.backgroundImage = "url(https://www.les-corts.com/wp-content/uploads/cache/images/2-logo-pb-collblanc-rgb-1/2-logo-pb-collblanc-rgb-1-139828099.png)";
+    decoration.style.backgroundImage = "https://www.les-corts.com/wp-content/uploads/cache/images/2-logo-pb-collblanc-rgb-1/2-logo-pb-collblanc-rgb-1-139828099.png;
     decoration.style.backgroundSize = "contain";
     </script>        
     """, width=0, height=0)
