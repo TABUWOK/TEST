@@ -1,7 +1,7 @@
 import streamlit as st
 import Formulari
 
-st.header("# COLLBLANC SANTS")
+st.markdown("<h1 style='text-align: center; color: red;'>COLLBLANC SANTS</h1>", unsafe_allow_html=True)
 
 
 
