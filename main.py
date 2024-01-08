@@ -12,6 +12,5 @@ with d:
 
 
 if st.button("a"):
-    Formulari.form()
-    
+    nav_pages("Formulari")
 #st.button('a', on_click=Formulari.form())

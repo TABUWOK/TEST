@@ -1,6 +1,6 @@
 import streamlit as st
 
-def form():
+#def form():
     st.write('# FORMULARI INSCRIPCIÓ LES CORTS FC')
     st.image('https://www.les-corts.com/wp-content/uploads/cache/images/2-logo-pb-collblanc-rgb-1/2-logo-pb-collblanc-rgb-1-139828099.png')
     st.text_input('Nom:')
