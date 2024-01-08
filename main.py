@@ -1,2 +1,2 @@
 import streamlit as st
-st.write('a')
+st.button('a')
