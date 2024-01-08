@@ -1,2 +1,4 @@
 import streamlit as st
-st.button('a')
+import Formulari
+
+st.button('a', on_click=Formulari.form())
