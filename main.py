@@ -2,7 +2,24 @@ import streamlit as st
 import Formulari
 
 st.markdown("<h1 style='text-align: center; color: #ab2a3e;'>COLLBLANC SANTS</h1>", unsafe_allow_html=True)
-st.image('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.les-corts.com%2Fes%2Fitem%2Fpenya-barcelonista-collblanc-les-corts-2%2F&psig=AOvVaw3ey_0TgESdXAwa_0PZMpgY&ust=1704822280120000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDwr4qszoMDFQAAAAAdAAAAABAU')
+st.set_page_config(layout="wide")
+custom_html = """
+<div class="banner">
+    <img src="https://img.freepik.com/premium-photo/wide-banner-with-many-random-square-hexagons-charcoal-dark-black-color_105589-1820.jpg" alt="Banner Image">
+</div>
+<style>
+    .banner {
+        width: 160%;
+        height: 200px;
+        overflow: hidden;
+    }
+    .banner img {
+        width: 100%;
+        object-fit: cover;
+    }
+</style>
+"""
+st.components.v1.html(custom_html)
 
 
 
