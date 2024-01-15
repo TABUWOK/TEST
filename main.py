@@ -13,7 +13,7 @@ elif st.session_state["Pagina"] == "main":
     e,d = st.columns(2)
     with e:
         st.image('Imatges/Foto_jugadors.jpg', width=325)
-        st.markdown("<p style='text-align: center; color: black;'>Titols</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center; color: black;'>La nostra historia</p>", unsafe_allow_html=True)
     with d:
         d.image('Imatges/Foto_jugadors.jpg', width=325)
         st.markdown("<p style='text-align: center; color: black;'>Equips</p>", unsafe_allow_html=True)
