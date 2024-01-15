@@ -16,6 +16,7 @@ with d:
 
 if st.button("a"):
     st.session_state["Pagina"] = "Formulari"
+    st.write(st.session_state["Pagina"])
 
 if st.session_state["Pagina"] == "Formulari":
     Formulari.form()
