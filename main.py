@@ -1,6 +1,6 @@
 import streamlit as st
 import Formulari
-from st_clickable_images import clickable_images
+
 
 st.session_state["Pagina"] = "main"
 
