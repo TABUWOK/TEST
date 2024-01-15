@@ -1,7 +1,7 @@
 import streamlit as st
 import Formulari
 
-st.session_state["Pagina"] = main()
+st.session_state["Pagina"] = "main"
 
 
 st.markdown("<h1 style='text-align: center; color: #ab2a3e;'>COLLBLANC SANTS</h1>", unsafe_allow_html=True)
@@ -15,5 +15,6 @@ with d:
 
 
 if st.button("a"):
-    st.session_state["Pagina"] = Formulari.form()
+    st.session_state["Pagina"] = "Formulari"
+    Formulari.form()
     
