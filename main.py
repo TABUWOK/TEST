@@ -26,4 +26,4 @@ elif st.session_state["Pagina"] == "main":
         d.image('https://www.mundodeportivo.com/files/image_948_465/uploads/2022/11/21/637b5a299a357.jpeg', width=325)
         st.markdown("<p style='text-align: center; color: black;'>Calendari partits</p>", unsafe_allow_html=True)
     
-    
+    st.button(st.image("Imatges/Foto_jugadors.jpg"))
