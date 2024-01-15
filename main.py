@@ -1,5 +1,6 @@
 import streamlit as st
 import Formulari
+from st_clickable_images import clickable_images
 
 st.session_state["Pagina"] = "main"
 
@@ -27,4 +28,3 @@ elif st.session_state["Pagina"] == "main":
         st.markdown("<p style='text-align: center; color: black;'>Calendari partits</p>", unsafe_allow_html=True)
     
  
-    st.button(st.image("Foto_jugadors.jpg"))
