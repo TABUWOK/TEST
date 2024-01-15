@@ -1,2 +1,2 @@
 streamlit
-st-clickable-images
+st_clickable_images
