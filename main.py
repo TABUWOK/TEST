@@ -5,8 +5,10 @@ st.session_state["Pagina"] = "main"
 
 if st.button("a"):
     st.session_state["Pagina"] = "Formulari"
+
+if st.session_state["Pagina"] == "Formulari"
     Formulari.form()
-else:
+elif st.session_state["Pagina"] == "main":
     st.markdown("<h1 style='text-align: center; color: #ab2a3e;'>COLLBLANC SANTS</h1>", unsafe_allow_html=True)
     e,d = st.columns(2)
     with e:
