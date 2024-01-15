@@ -14,8 +14,8 @@ elif st.session_state["Pagina"] == "main":
     with e:
         st.image('https://futbolcatalunya.com/wp-content/uploads/2022/01/equipmercantil.jpg', width=325)
         st.markdown("<p style='text-align: center; color: black;'>La nostra historia</p>", unsafe_allow_html=True)
-    with d:
-        d.image('Imatges/Foto_jugadors.jpg', width=350)
+    with d:w
+        d.image('Imatges/Foto_jugadors.jpg', width=375)
         st.markdown("<p style='text-align: center; color: black;'>Equips</p>", unsafe_allow_html=True)
     
     
