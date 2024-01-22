@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.markdown("<h1 style='text-align: center; color: #ab2a3e;'>COLLBLANC SANTS: EQUIPS</h1>", unsafe_allow_html=True)
-e,d = st.columns(2)
+e,m,d = st.columns(3)
 with e:
     st.write("**1ra Divisió:**")
     lst = ['a']
@@ -29,7 +29,7 @@ with e:
         st.markdown("- " + "Cadet C")
         st.markdown("- " + "Juvenil B")
         st.markdown("- " + "Juvenil C")
-with d:
+with m:
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/1.-JUVENIL-A.jpeg", width=325)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/6.-INFANTIL-B.jpg", width=325)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/3.-CADET-B.jpeg", width=325)
