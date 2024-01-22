@@ -9,7 +9,7 @@ with e:
     st.write("– Camps de Mini FC Barcelona")
     st.write("– Camp Aristides Maillol, al costat del Camp Nou")
 with d:
-    st.image("https://files.fcf.cat/campos/2015-11-15-15:10:20340.jpeg", width=325)
+    st.image("https://files.fcf.cat/campos/2015-11-15-15:10:20340.jpeg", width=300)
 
 st.write("Tots els equips estan federats i participen en les competicions organitzades per la Federació Catalana de Futbol, a més d’ésser un equip que milita en el Consell Escolar.")
  
