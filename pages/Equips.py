@@ -14,7 +14,7 @@ for i in lst:
     st.markdown("- " + "Cadet A")
     st.markdown("- " + "Juvenil A")
 
-st.write(**"**2na Divisió:**"**, )
+st.write("**2na Divisió:**", )
 lst = ['a']
 
 for i in lst:
