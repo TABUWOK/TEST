@@ -40,3 +40,4 @@ with d:
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/alevin-a-1.jpeg", width=225)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/5.-INFANTIL-A.jpg", width=225)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/IMG-20161122-WA0003.jpg", width=225)
+    st.image("https://www.forcadell.com/imagecache/uploads_images_entries480x379_c_14pb.jpg", width=225)
