@@ -5,4 +5,4 @@ st.write("1ra Divisió:")
 lst = ['a', 'b', 'c']
 
 for i in lst:
-    st.markdown("- " + I)
+    st.markdown("- " + "MESSI")
