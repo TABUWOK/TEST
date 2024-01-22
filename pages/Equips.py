@@ -34,7 +34,7 @@ with m:
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/6.-INFANTIL-B.jpg", width=225)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/3.-CADET-B.jpeg", width=225)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/ALEV%C3%8D-C.jpg", width=225)
-
+    st.image("https://pbcollblanc.com/wp-content/uploads/2019/01/10.-ALEV%C3%8D-B-1.jpeg", width=225)
 with d:
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/PREA.jpg", width=225)
     st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/alevin-a-1.jpeg", width=225)
