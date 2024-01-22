@@ -30,12 +30,12 @@ with e:
         st.markdown("- " + "Juvenil B")
         st.markdown("- " + "Juvenil C")
 with m:
-    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/1.-JUVENIL-A.jpeg", width=325)
-    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/6.-INFANTIL-B.jpg", width=325)
-    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/3.-CADET-B.jpeg", width=325)
+    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/1.-JUVENIL-A.jpeg", width=225)
+    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/6.-INFANTIL-B.jpg", width=225)
+    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/3.-CADET-B.jpeg", width=225)
 
 with d:
-    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/PREA.jpg", width=325)
-    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/alevin-a-1.jpeg", width=325)
-    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/5.-INFANTIL-A.jpg", width=325)
+    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/PREA.jpg", width=225)
+    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/alevin-a-1.jpeg", width=225)
+    st.image("https://pbcollblanc.com/wp-content/uploads/2016/06/5.-INFANTIL-A.jpg", width=225)
     
